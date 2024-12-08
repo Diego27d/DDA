@@ -1,0 +1,3 @@
+Arreglar que cuando apreto en añadir al carrito no pasa nada cuando deberia abrir el sidebar cart que el codigo esta en cart.js, el boton parece no hacer nada si añade al carrito pero tenemos 
+que ir al carrito del navbar
+
